@@ -4,7 +4,7 @@ Automated bot for claiming Interlink Labs airdrop tokens, designed for the Inter
 
 ## 🚦 Register
 
-- **Link**: https://interlinklabs.ai/referral?refCode=88570
+- **Link**: https://interlinklabs.ai/referral?refCode=303322907
 
 ## 🚀 Features
 
